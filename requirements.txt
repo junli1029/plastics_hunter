@@ -1,0 +1,7 @@
+streamlit>=1.30
+plotly>=5.18
+numpy
+pandas
+cloudpickle
+gdown>=5.0
+qrcode[pil]>=7.4
