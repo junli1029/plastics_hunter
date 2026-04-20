@@ -4,7 +4,7 @@ An interactive Streamlit dashboard that visualises optimal vessel routes for
 collecting marine plastic debris in Southeast Asia, based on HYCOM ocean
 current forecasts and a particle-drift simulation.
 
-**Live demo:** https://plastic-hunter-dashboard.streamlit.app (once deployed)
+**Live demo:** https://plastic-hunter-dashboard.streamlit.app
 
 ---
 
